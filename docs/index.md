@@ -112,3 +112,17 @@ from simple tasks to complex workflows.
     [launch stage descriptions](https://cloud.google.com/products#product-launch-stages).
 
 <div class="footer"></div>
+
+<!-- Iklan Sidebar -->
+<div class="ad-container">
+  <script type="text/javascript">
+    atOptions = { 
+      'key': '0cfd3aa635d270e67b5af101e4d64321',
+      'format': 'iframe',
+      'height': 250,
+      'width': 300,
+      'params': {}
+    };
+  </script>
+  <script type="text/javascript" src="//padsims.com/0cfd3aa635d270e67b5af101e4d64321/invoke.js"></script>
+</div>
